@@ -1,7 +1,5 @@
+
 {
   "installCommand": "bun install",
-  "regions": [
-    "hnd1"
-  ],
-  "runtime": "edge"
+  "regions": ["hnd1"]
 }
